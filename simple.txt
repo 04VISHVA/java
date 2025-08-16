@@ -1,0 +1,2 @@
+hello world
+git init -- iniatalize git to current folder
